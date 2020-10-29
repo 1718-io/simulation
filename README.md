@@ -4,7 +4,7 @@ Notre association s'appelle `Association XXXX`, et a créé une équipe appelée
 * de répondre à toute question des membres de l'association, en matières de technolgies de l'information.
 * d'opérer toutes les infrastructures (postes de travail, serveurs, iaas, etc...) et logiciels :
   * utilisés par les membres de l'association
-  * mis à disposition du public par l'associaton
+  * mis à disposition du public par l'association
 
 
 Cette documentation a été écrite pour rendre publique, la politique de gestion appliquée par notre association, pour :

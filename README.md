@@ -77,7 +77,18 @@ Tout non respect d'une décision de la comission de contrôle par un membre de "
 * toute personne ayant un jour été membre de l'"équipe IT", ne pourra jamais siéger comme membre de la comission de contrôle de l'"équipe IT"
 
 
-## Statuts et missions de la commision de contrôle de l'"équipe IT"
+## Statuts et missions de l'"équipe IT"
+
+
+Elle doit former continuellement les membres de la comission de contrôle, à l'administration d'une organisation github.com, et de ses uilisateurs, par :
+* des sessions de formations qui doivent petre enregistrées et publiées sur "Youtube" : cela apporte une garantie d'honnêteté, le public "YouTube" ne manquera pas de faire des commentaires si "l'équipe IT" donnait de fausses informations aux membres de la comission.
+* sessions qui auront lieu obligatoirement une fois par période de 15 jours, sauf si la comission demande l'annulation de la session
+
+Elle doit former continuellement les membres de la comission de contrôle, à l'utilisation d'un logiciel de type "Secret manager", autrement appelé "trousseau de clefs", par :
+* des sessions de formations qui doivent petre enregistrées et publiées sur "Youtube" : cela apporte une garantie d'honnêteté, le public "YouTube" ne manquera pas de faire des commentaires si "l'équipe IT" donnait de fausses informations aux membres de la comission.
+* sessions qui auront lieu obligatoirement une fois par période de 15 jours, sauf si la comission demande l'annulation de la session
+
+Elle doit donenr les mêmes formation à des membres de l'association tirés au sort tous les 15 jours : 5 membres sont tirés ausport, et toujours ua moins 1 des cinq, doit obligatoirement assiter à la formation.
 
 
 ## Règles de collaboration

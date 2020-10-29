@@ -38,7 +38,7 @@ Si un quelconque point de la politique ici déclarée, par exemple si vous avez 
 * nous vous répondrons dès que possible, et la comission de contrôle de l'"équipe IT", décidera ou non, de prendre en compte votre objection : mais dans tous les cas, elle répondra à votre objection en motivant publiquement, par réponse sur l'issue que vous aurez ouverte, sur github.com, sa décision.
 
 
-### Statuts et missions de la commision de contrôle de l'"équipe IT"
+## Statuts et missions de la commision de contrôle de l'"équipe IT"
 
 La comission de contrôle de l'"équipe IT", est détentrice, et "gardienne", des "secrets suprêmes", permettant techniquement, à tout moment :
 * de modifier pour tout utilisateur github.com :
@@ -77,11 +77,11 @@ Tout non respect d'une décision de la comission de contrôle par un membre de "
 * toute personne ayant un jour été membre de l'"équipe IT", ne pourra jamais siéger comme membre de la comission de contrôle de l'"équipe IT"
 
 
-### Statuts et missions de la commision de contrôle de l'"équipe IT"
+## Statuts et missions de la commision de contrôle de l'"équipe IT"
 
 
-### Règles de collaboration
+## Règles de collaboration
 
-# Membres de l'équipe
+#### Membres de l'équipe
 
-# Devenir contributeur
+#### Devenir contributeur
